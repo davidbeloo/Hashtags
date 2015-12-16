@@ -1,5 +1,5 @@
 # Hashtags
-Hashtags layout that arranges its children in multiple rows depending on their width.
+Hashtags layout example for arrange children views in multiple rows depending on their width.
 
 * Unknown size list of strings
 * Any item is wrap content.

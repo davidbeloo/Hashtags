@@ -3,9 +3,9 @@ Layout example for arrange children views in multiple rows depending on their wi
 
 * Unknown size list of children views
 * Any children view is wrap content.
-* Children views that doesn't fit to row, will be in the next row.
-* All children views can be centered or any other gravity option.
-* Any children views is clickable
+* Children view that doesn't fit to row, will be in the next row.
+* Layout can be centered or any other gravity option.
+* Any children view is clickable
 
 Based on this lovely "FlowLayout" git: https://github.com/blazsolar/FlowLayout
 

@@ -1,5 +1,5 @@
 # Hashtags
-Hashtags layout example for arrange children views in multiple rows depending on their width.
+Layout example for arrange children views in multiple rows depending on their width.
 
 * Unknown size list of children views
 * Any children view is wrap content.

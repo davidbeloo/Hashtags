@@ -1,11 +1,11 @@
 # Hashtags
 Hashtags layout example for arrange children views in multiple rows depending on their width.
 
-* Unknown size list of strings
-* Any item is wrap content.
-* Item that doesn't fits to row, will be in the next row.
-* Centered or any other layout option.
-* Any item is clickable
+* Unknown size list of children views
+* Any children view is wrap content.
+* Children views that doesn't fit to row, will be in the next row.
+* All children views can be centered or any other gravity option.
+* Any children views is clickable
 
 Based on this lovely "FlowLayout" git: https://github.com/blazsolar/FlowLayout
 

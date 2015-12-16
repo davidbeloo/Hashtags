@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+    android:id="@+id/hashtagTextView"
+    fontPath="fonts/opensans_regular.ttf"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    android:background="@color/hashtag_pink"
+    android:ellipsize="end"
+    android:maxLines="1"
+    android:paddingBottom="8dp"
+    android:paddingLeft="8dp"
+    android:paddingRight="8dp"
+    android:paddingTop="8dp"
+    android:text="@string/sample_hashtag"
+    android:textColor="@color/gray"
+    android:textSize="16dp"
+    tools:ignore="MissingPrefix"/>

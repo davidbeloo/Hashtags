@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="hashtag_colors">
+        <item>@color/hashtag_purple</item>
+        <item>@color/hashtag_turquoise</item>
+        <item>@color/hashtag_pink</item>
+        <item>@color/hashtag_blue</item>
+        <item>@color/hashtag_yellow</item>
+    </integer-array>
+</resources>

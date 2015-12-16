@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#EA6EE4</color>
+    <color name="colorPrimaryDark">#ED44E4</color>
+    <color name="colorAccent">#EFBDEC</color>
+
+    <color name="gray">#666666</color>
+    <color name="hashtag_purple">#EFBDEC</color>
+    <color name="hashtag_turquoise">#B4F3E0</color>
+    <color name="hashtag_pink">#FFC1C8</color>
+    <color name="hashtag_blue">#C1DDFF</color>
+    <color name="hashtag_yellow">#FFE5A7</color>
+</resources>
